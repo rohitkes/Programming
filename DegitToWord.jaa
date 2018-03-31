@@ -1,0 +1,8 @@
+public class DegitToWord  {
+	
+	Public static oid mian(String[] args) throws Exception  {
+
+		Scanner in = new Scanner(System.in);
+
+	}
+}
